@@ -1,5 +1,8 @@
 _repo: Taka-Lappia_75622
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Paulaharju, Samuli
@@ -10,6 +13,8 @@ creator:
     wikipedia: https://fi.wikipedia.org/wiki/Samuli_Paulaharju
 description: 'Reading ease score: 29.1 (College graduate level). Very difficult to
   read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75622#Taka-Lappia
 gutenberg_bookshelf:
 - 'Browsing: Culture/Civilization/Society'
 - 'Browsing: Travel & Geography'
